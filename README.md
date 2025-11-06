@@ -11,6 +11,9 @@ to start u need create .env file in folder with .py file
 API_ID=
 API_HASH=
 ```
-get API_ID and API_HASH at my.telegram.org
+get API_ID and API_HASH at **[my.telegram.org](my.telegram.org)**
 
-to start using ntc type ntc --help
+to start using ntc type ``` ntc --help ```
+
+
+**used ai: claude sonnet 4.5 thinking**
