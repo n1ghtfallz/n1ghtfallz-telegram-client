@@ -1,3 +1,5 @@
 telethon
 python-dotenv
 rich
+cryptography
+pillow
