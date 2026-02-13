@@ -17,7 +17,7 @@ A powerful, terminal-based Telegram client built with Python, Telethon, and Rich
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/n1ghtfallz/n1ghtfallz-telegram-client.git
     cd ntc
     ```
 
